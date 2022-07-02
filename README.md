@@ -1,0 +1,2 @@
+# originTemplate
+Algorithm Template
